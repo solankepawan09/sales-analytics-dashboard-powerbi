@@ -78,12 +78,12 @@ High-level summary of overall sales, profit, and quantity performance with key K
 ### 2. Top/Bottom 5 Analysis
 Highlights the top 5 and bottom 5 performing products/regions to quickly surface strong and weak performers.
 
-![Top/Bottom 5 Analysis](images/top-bottom-5.png)
+![Top/Bottom 5 Analysis](images/top-bottom-5-analysis.png)
 
 ### 3. Comparison — Sales/Profit/Quantity
 Side-by-side comparison view to analyze the relationship between sales volume, profitability, and quantity sold.
 
-![Comparison Sales/Profit/Quantity](images/comparison.png)
+![Comparison Sales/Profit/Quantity](images/comparision-sales-profit-quantity.png)
 
 ### 4. Edit Interactions
 Configures how visuals filter, highlight, or cross-affect one another when a user clicks on a data point — used to fine-tune the interactive behavior across report pages.
