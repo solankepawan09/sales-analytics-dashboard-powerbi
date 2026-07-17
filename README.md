@@ -120,4 +120,5 @@ A detailed tabular view of the underlying sales data, allowing users to inspect 
 ## 👤 Author
 
 **Pawan Solanke**
+
 Data Analyst | SQL, Python, Power BI
