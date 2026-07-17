@@ -115,19 +115,6 @@ A detailed tabular view of the underlying sales data, allowing users to inspect 
 1. Clone/download the repository
 2. Open `Project_1_-_Sales_Data_Analysis.pbix` in **Power BI Desktop** (free download from Microsoft)
 3. Explore the report pages using the tabs at the bottom
-
-## 🖼️ Adding Dashboard Screenshots
-
-GitHub doesn't render `.pbix` files as previews. To make this project easier to evaluate at a glance, add screenshots of each page:
-
-1. Open the report in Power BI Desktop
-2. Capture each page (Overview, Top/Bottom 5, Comparison) using Snipping Tool or **File → Export → Export to PDF**
-3. Save as `.png` files in an `/images` folder in this repo
-4. Reference them here like:
-   ```markdown
-   ![Overview Page](images/overview.png)
-   ![Top/Bottom 5 Analysis](images/top-bottom-5.png)
-   ![Sales/Profit/Quantity Comparison](images/comparison.png)
    ```
 
 ## 👤 Author
